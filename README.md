@@ -17,5 +17,5 @@ MSc Mathematics and Computing student specializing in backend logic, object-orie
   A reference repository containing core functional programming and OOP architecture scripts.
 
 ## 📫 Connect with me
-* **LinkedIn:** 
+ 
 * **Email:** vishalshuklay12234@gmail.com
