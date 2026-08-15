@@ -16,6 +16,9 @@ MSc Mathematics and Computing student specializing in backend logic, object-orie
 * **[Python Foundations](https://github.com/vishal-shukla89/Python-Foundations)**
   A reference repository containing core functional programming and OOP architecture scripts.
 
+### [NumPy Fundamentals Practice](https://github.com/vishal-shukla89/numpy-fundamentals-practice)
+A set of NumPy practice notebooks covering array creation, indexing, broadcasting, and applied exercises like a Sudoku validator and student-data analysis, built with Python and NumPy.
+
 ## 📫 Connect with me
  
 * **Email:** vishalshuklay12234@gmail.com
