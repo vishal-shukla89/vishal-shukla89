@@ -18,6 +18,8 @@ MSc Mathematics and Computing student specializing in backend logic, object-orie
 
 * **[NumPy Fundamentals Practice](https://github.com/vishal-shukla89/numpy-fundamentals-practice)**
 A set of NumPy practice notebooks covering array creation, indexing, broadcasting, and applied exercises like a Sudoku validator and student-data analysis, built with Python and NumPy.
+* **[Pandas Fundamentals Practice](https://github.com/vishal-shukla89/pandas-fundamentals-practice)
+Practice series covering core pandas operations (Series, DataFrames, missing data, merging/joining, groupby, pivot tables) plus two feature-extraction projects on real datasets, built with pandas and numpy.
 
 ## 📫 Connect with me
  
